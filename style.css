@@ -1,0 +1,51 @@
+body{
+    margin-top: 4%;
+    font-family: 'Libre Baskerville', serif;
+    background-color: black;
+    color: white;
+}
+
+h1{
+    text-transform: uppercase;
+}
+img{
+    width: 200px;
+}
+#sleeping_panda{
+    border: 5px solid white;
+}
+
+#girl{
+    border: 5px solid yellow;
+}
+
+#rest{
+    border: 5px solid pink;
+}
+
+#workout_dog{
+    width:250px;
+    border: 5px solid skyblue
+}
+
+#eating{
+    border: 5px solid lavender
+}
+
+#learning{
+    border: 5px solid orange
+}
+
+#meditate{
+    border: 5px solid silver
+}
+
+div{
+    align-content: center;
+}
+
+.button_container{
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-between;
+}
